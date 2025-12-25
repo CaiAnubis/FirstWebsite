@@ -2,6 +2,7 @@
 
 A small cyberpunk-themed meme browser (memeRus) that fetches trending GIFs and stills from GIPHY and displays them in a neon grid. Includes filters for content rating and media type (GIF vs PNG/still).
 
+Scrited by Joshan Randhawa
 ## Features
 - Search memes by keyword
 - Trending feed
